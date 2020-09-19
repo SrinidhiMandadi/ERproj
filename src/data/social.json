@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/",
+        "image": "/images/social/github.svg"
+    },
+    {
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/",
+        "image": "/images/social/linkedin.svg"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/?lang=en",
+        "image": "/images/social/twitter.svg"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/",
+        "image": "/images/social/instagram.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/",
+        "image": "/images/social/facebook.svg"
+    }
+
+
+]
