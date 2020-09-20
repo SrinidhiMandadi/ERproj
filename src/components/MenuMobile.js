@@ -1,7 +1,7 @@
 import React from 'react';
 import { graphql, useStaticQuery, Link } from 'gatsby';
 import Dropdown from '../components/Dropdown';
-
+import Dropdown2 from './Dropdown2';
 
 const MobileMenu = props => {
   const data = useStaticQuery(graphql`
@@ -26,6 +26,8 @@ const MobileMenu = props => {
           </li>
         ))}
                <Dropdown />
+               <Dropdown2 />
+
       </ul>
     </div>
   );

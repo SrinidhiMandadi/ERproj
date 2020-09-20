@@ -3,6 +3,7 @@ import { graphql, useStaticQuery, Link } from 'gatsby';
 // import '../css/dropdownstyle.css';
 // import ReactDOM from 'react-dom';
 import Dropdown from '../components/Dropdown';
+import Dropdown2 from './Dropdown2';
 
 
 const Menu = props => {
@@ -29,7 +30,7 @@ const Menu = props => {
           </li>
         ))}
         <Dropdown />
-
+        <Dropdown2/>
        </ul>
      </div>
   );
