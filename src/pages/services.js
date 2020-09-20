@@ -54,7 +54,7 @@ const Services = props => {
         </div>
   </div> 
     </Layout>
-  );
+  ); 
 };
 
 export const query = graphql`
